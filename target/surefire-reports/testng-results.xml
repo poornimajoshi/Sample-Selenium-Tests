@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-03-15T09:59:33Z" name="Command line suite" finished-at="2018-03-15T09:59:55Z" duration-ms="22047">
+    <groups>
+    </groups>
+    <test started-at="2018-03-15T09:59:33Z" name="Command line test" finished-at="2018-03-15T09:59:55Z" duration-ms="22047">
+      <class name="users.uiTest">
+        <test-method signature="postSome1thing()[pri:0, instance:users.uiTest@703580bf]" started-at="2018-03-15T09:59:33Z" name="postSome1thing" finished-at="2018-03-15T09:59:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSome1thing -->
+      </class> <!-- users.uiTest -->
+      <class name="mobileGame.MobileGameTest">
+        <test-method signature="postSome1thing()[pri:0, instance:mobileGame.MobileGameTest@63021689]" started-at="2018-03-15T09:59:33Z" name="postSome1thing" finished-at="2018-03-15T09:59:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSome1thing -->
+      </class> <!-- mobileGame.MobileGameTest -->
+      <class name="users.uiPanelTest">
+        <test-method signature="postSomething()[pri:0, instance:users.uiPanelTest@3e92efc3]" started-at="2018-03-15T09:59:33Z" name="postSomething" finished-at="2018-03-15T09:59:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSomething -->
+        <test-method signature="ui()[pri:0, instance:users.uiPanelTest@3e92efc3]" started-at="2018-03-15T09:59:33Z" name="ui" finished-at="2018-03-15T09:59:55Z" duration-ms="22020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ui -->
+      </class> <!-- users.uiPanelTest -->
+      <class name="customerSupport.CustomerSupportTest">
+        <test-method signature="postSome1thing()[pri:0, instance:customerSupport.CustomerSupportTest@cd3fee8]" started-at="2018-03-15T09:59:33Z" name="postSome1thing" finished-at="2018-03-15T09:59:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSome1thing -->
+      </class> <!-- customerSupport.CustomerSupportTest -->
+      <class name="broadcast.BroadcastTest">
+        <test-method signature="postSome1thing()[pri:0, instance:broadcast.BroadcastTest@1622f1b]" started-at="2018-03-15T09:59:55Z" name="postSome1thing" finished-at="2018-03-15T09:59:55Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSome1thing -->
+      </class> <!-- broadcast.BroadcastTest -->
+      <class name="commercial.CommercialTest">
+        <test-method signature="postSome1thing()[pri:0, instance:commercial.CommercialTest@470f1802]" started-at="2018-03-15T09:59:33Z" name="postSome1thing" finished-at="2018-03-15T09:59:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSome1thing -->
+      </class> <!-- commercial.CommercialTest -->
+      <class name="studio.StudioTest">
+        <test-method signature="postSome1thing()[pri:0, instance:studio.StudioTest@3c419631]" started-at="2018-03-15T09:59:33Z" name="postSome1thing" finished-at="2018-03-15T09:59:33Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSome1thing -->
+      </class> <!-- studio.StudioTest -->
+      <class name="qa.QaTest">
+        <test-method signature="postSome1thing()[pri:0, instance:qa.QaTest@3e2e18f2]" started-at="2018-03-15T09:59:33Z" name="postSome1thing" finished-at="2018-03-15T09:59:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSome1thing -->
+      </class> <!-- qa.QaTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
